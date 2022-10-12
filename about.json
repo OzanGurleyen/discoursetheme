@@ -20,7 +20,11 @@
       "highlight": "f5830a",
       "danger": "d42f34",
       "success": "1b8561",
-      "love": "fa6c8d"
+      "love": "fa6c8d",
+      "primary-high": "333333",
+      "primary-medium": "666666",
+      "primary-low-mid": "999999",
+      "primary-low": "cccccc"    
     },
     "Material Teal/Amber": {
       "primary": "212121",
